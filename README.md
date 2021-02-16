@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m mainly interested in web & mobile development technologies. 
-- 🌱 I’m currently learning Node, React and React Native technologies.
-- 🤔 I’m looking for help with React hooks, redux, duck pattern.
-- 👯 I’m looking to collaborate on game development lib-js. 
-- 📫 How to reach me: alison.dev.silva@gmail.com.
-- ⚡ Fun fact: 42.
+I'm a Backend developer mainly interested web development with Spring Boot, Nodejs and Nextjs. I’m currently learning RESTful API,Node, Next and Spring Security. I'm about to start study artificial intelligence and natural language processing with Python, Keras and Tensor in a specialization course.
+
+📫 How to reach me: alison.dev.silva@gmail.com.
+
+⚡ Fun fact: 42.
